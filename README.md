@@ -312,7 +312,12 @@
   font-family: 'iansui';
   src: url('./Iansui-Regular.ttf') format('truetype')
 }
- 
+
+@font-face {
+  font-family: 'edukai';
+  src: url('./edukai-5.0.ttf') format('truetype')
+} 
+
 html {
   margin: 0;
   padding: 0;
@@ -324,7 +329,7 @@ html {
 }
 
 body {
-  font-family: 'iansui', 'sans-serif', '標楷體', 'DFKai-SB';
+  font-family: 'edukai', 'iansui', 'sans-serif', '標楷體', 'DFKai-SB';
   width: 90%;
   height: auto;
   max-width: 210mm;
