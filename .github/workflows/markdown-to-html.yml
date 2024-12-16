@@ -18,10 +18,10 @@ jobs:
           pandoc docs/aoa.md -o docs/index.html
       - name: Commit and push changes
         run: |
-          git config --local user.name "許景企鵝"
-          git config --local user.email "penguin-joyce@ntut.club"
+          git config --local user.name "kevinlee-06"
+          git config --local user.email "cgshyuankai@proton.me"
           git add docs/index.html
-          git commit -m "景夾已從 /docs/aoa.md 構建新的 /docs/index.html" || echo "景夾表示沒有改變"
+          git commit -m "已從 /docs/aoa.md 構建新的 /docs/index.html" || echo "沒有改變"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
