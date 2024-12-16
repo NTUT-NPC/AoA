@@ -308,17 +308,15 @@
 
 ---
 <style>
-@font-face {
+/* @font-face {
   font-family: 'iansui';
-  src: url('./Iansui-Regular.ttf') format('truetype')
-}
+  src: url('./assets/Iansui-Regular.ttf') format('truetype')
+} */
 
-/*
 @font-face {
   font-family: 'edukai';
-  src: url('./edukai-5.0.ttf') format('truetype')
+  src: url('./assets/edukai-5.0.ttf') format('truetype')
 } 
-*/
 
 html {
   margin: 0;
