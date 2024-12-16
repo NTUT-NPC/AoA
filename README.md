@@ -313,10 +313,12 @@
   src: url('./Iansui-Regular.ttf') format('truetype')
 }
 
+/*
 @font-face {
   font-family: 'edukai';
   src: url('./edukai-5.0.ttf') format('truetype')
 } 
+*/
 
 html {
   margin: 0;
@@ -329,14 +331,13 @@ html {
 }
 
 body {
-  font-family: 'edukai', 'iansui', 'sans-serif', '標楷體', 'DFKai-SB';
+  font-family: 'DFKai-SB', 'edukai';
   width: 90%;
   height: auto;
   max-width: 210mm;
   background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  padding: 20mm; /* Optional padding */
-/*   box-sizing: border-box; */
+  padding: 20mm;
 }
 
 h2 {
@@ -344,16 +345,14 @@ h2 {
 }
 
 .ul {
-  list-style-type: none; /* Remove default bullets */
-  padding: 0; /* Optional: Remove padding */
-  margin: 0; /* Optional: Remove margin */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
   text-align: right;
 }
 
 ul {
-  list-style-type: none; /* Remove default bullets */
-  /* padding: 0; Optional: Remove padding */
-  /* margin: 0; Optional: Remove margin */
+  list-style-type: none;
   text-align: left;
 }
 </style>
