@@ -362,5 +362,4 @@ ul {
   /* margin: 0; Optional: Remove margin */
   text-align: left;
 }
-
 </style>
