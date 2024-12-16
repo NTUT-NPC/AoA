@@ -374,4 +374,10 @@ ul {
   list-style-type: none;
   text-align: left;
 }
+
+p,
+li {
+  font-size: 1em;
+}
+  
 </style>
