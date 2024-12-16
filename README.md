@@ -327,6 +327,7 @@ html {
 body {
   font-family: 'iansui', 'sans-serif', '標楷體', 'DFKai-SB';
   width: 90%;
+  height: auto;
   max-width: 210mm;
   background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
