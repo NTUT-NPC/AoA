@@ -313,12 +313,12 @@
 <style>
 /* @font-face {
   font-family: 'iansui';
-  src: url('./assets/Iansui-Regular.ttf') format('truetype')
+  src: url('../assets/Iansui-Regular.ttf') format('truetype')
 } */
 
 @font-face {
   font-family: 'edukai';
-  src: url('./assets/edukai-5.0.ttf') format('truetype')
+  src: url('../assets/edukai-5.0.ttf') format('truetype')
 } 
 
 @media print {
