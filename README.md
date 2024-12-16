@@ -314,8 +314,23 @@
   src: url('./Iansui-Regular.ttf') format('truetype')
 }
  
+html {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
 body {
   font-family: 'iansui', 'sans-serif', '標楷體', 'DFKai-SB';
+  width: 512px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20mm; /* Optional padding */
+  box-sizing: border-box;
 }
 
 h2 {
