@@ -338,6 +338,7 @@ body {
   padding: 20mm;
 }
 
+h1,
 h2 {
   text-align: center;
 }
