@@ -308,7 +308,7 @@
 - #### 八、 本章程經社員大會通過後由本社社長公告實施，修正時亦同。
 
 ---
-
+<style>
 @font-face {
   font-family: 'iansui';
   src: url('./Iansui-Regular.ttf') format('truetype')
@@ -335,3 +335,4 @@ ul {
   /* margin: 0; Optional: Remove margin */
   text-align: left;
 }
+</style>
