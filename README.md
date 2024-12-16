@@ -1,5 +1,5 @@
 ## 國立臺北科技大學程式設計研究社組織章程
-
+<link rel="stylesheet" href="styles.css">
 <ul class="ul">
   <li>民國 106 年 11 月 23 日幹部會議通過</li>
   <li>民國 108 年 9 月 17 日幹部會議修正通過</li>
