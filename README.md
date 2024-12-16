@@ -307,6 +307,9 @@
 - 八、 本章程經社員大會通過後由本社社長公告實施，修正時亦同。
 
 ---
+
+<button onclick="window.print();">列印</button>
+
 <style>
 /* @font-face {
   font-family: 'iansui';
@@ -317,6 +320,23 @@
   font-family: 'edukai';
   src: url('./assets/edukai-5.0.ttf') format('truetype')
 } 
+
+@media print {
+  @page {
+    margin: 5mm 0;
+  }
+  body {
+      width: 100%;
+      padding: 0;
+      margin: 0;
+      box-shadow: 0 0 10px rgb(255, 255, 255);
+  }
+  html {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+  }
+}
 
 html {
   margin: 0;
