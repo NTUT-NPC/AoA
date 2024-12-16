@@ -9,6 +9,7 @@
 </ul>
 
 ### 壹、 總則
+
   #### 一、 社團名稱
   - 本社團定中文名為「國立臺北科技大學程式設計研究社」,英文名為「National Taipei University of Technology Programming Club」，簡寫為「NTUT Programming Club」、「NPC」；以下簡稱本社。
 
