@@ -377,7 +377,7 @@ ul {
 
 p,
 li {
-  font-size: 1em;
+  margin: 0;
 }
   
 </style>
