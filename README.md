@@ -1,5 +1,5 @@
 ## 國立臺北科技大學程式設計研究社組織章程
-<link rel="stylesheet" href="styles.css">
+
 <ul class="ul">
   <li>民國 106 年 11 月 23 日幹部會議通過</li>
   <li>民國 108 年 9 月 17 日幹部會議修正通過</li>
@@ -306,3 +306,32 @@
 - #### 六、 章程變更應由當屆幹部進行充分討論與評估，經副社長召開幹部會議表決通過後方可修訂，並於決議通過之日起生效。
 - #### 七、 本章程若有未盡事宜，得依幹部會議決議補充或修正之，必要時可參照校方相關規定執行。
 - #### 八、 本章程經社員大會通過後由本社社長公告實施，修正時亦同。
+
+---
+
+@font-face {
+  font-family: 'iansui';
+  src: url('./Iansui-Regular.ttf') format('truetype')
+}
+ 
+body {
+  font-family: 'iansui', 'sans-serif', '標楷體', 'DFKai-SB';
+}
+
+h2 {
+  text-align: center;
+}
+
+.ul {
+  list-style-type: none; /* Remove default bullets */
+  padding: 0; /* Optional: Remove padding */
+  margin: 0; /* Optional: Remove margin */
+  text-align: right;
+}
+
+ul {
+  list-style-type: none; /* Remove default bullets */
+  /* padding: 0; Optional: Remove padding */
+  /* margin: 0; Optional: Remove margin */
+  text-align: left;
+}
