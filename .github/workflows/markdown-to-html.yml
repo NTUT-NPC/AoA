@@ -20,7 +20,7 @@ jobs:
 
       - name: Convert README.md to HTML
         run: |
-          pandoc README.md -o index.html
+          pandoc README.md -o index.html --css=style.css
 
       - name: Commit and push changes
         run: |
