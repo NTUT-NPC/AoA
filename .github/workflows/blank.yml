@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Convert Markdown to HTML
 
 # Controls when the workflow will run
 on:
@@ -22,12 +22,22 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-      - name: Converts Markdown to HTML
+      # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Converts Markdown to HTML
+      - name: Convert Markdown to HTML
         uses: jaywcjlove/markdown-to-html-cli@main
         with:
           source: README.md
           output: index.html
           github-corners: https://github.com/jaywcjlove/markdown-to-html-cli
           favicon: data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>
+
+      # Optionally, you can add a step to upload the generated HTML file as an artifact
+      - name: Upload HTML artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: index.html
+          path: index.html
