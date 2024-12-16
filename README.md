@@ -308,7 +308,7 @@
 
 ---
 
-<button onclick="window.print();">列印</button>
+<button onclick="window.print(); " style="border: 0; border-radius: 5px; padding: 10px 100px; background-color: rgb(5, 134, 255); color: white; cursor: pointer;">列印</button>
 
 <style>
 /* @font-face {
