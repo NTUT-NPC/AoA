@@ -307,7 +307,7 @@
 - 八、 本章程經社員大會通過後由本社社長公告實施，修正時亦同。
 
 ---
-<link rel="icon" href="https://github.com/NTUT-NPC/AoA/raw/refs/heads/main/docs/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://github.com/NTUT-NPC/AoA/raw/refs/heads/main/docs/assets/favicon.ico" type="image/x-icon">
 <button onclick="window.print(); " style="border: 0; border-radius: 5px; padding: 10px 100px; background-color: rgb(5, 134, 255); color: white; cursor: pointer;">列印</button>
 
 <style>
