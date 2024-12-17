@@ -313,7 +313,7 @@
 <style>
 @font-face {
   font-family: 'edukai';
-  src: url('https://github.com/NTUT-NPC/AoA/raw/refs/heads/main/assets/edukai-5.0.ttf') format('truetype')
+  src: url('assets/edukai-5.0.ttf') format('truetype')
 } 
 
 @media print {
