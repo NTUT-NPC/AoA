@@ -4,7 +4,7 @@
 - **保留字體名稱**："iansui" 和 "芫荽"
 - **授權**：[SIL Open Font License, Version 1.1](https://github.com/ButTaiwan/iansui?tab=OFL-1.1-1-ov-file)
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OFL_logo_rect_color.svg/1020px-OFL_logo_rect_color.svg.png" style="width: 200px;"/>
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OFL_logo_rect_color.svg/1020px-OFL_logo_rect_color.svg.png" style="width: 200px;"/>](https://github.com/ButTaiwan/iansui?tab=OFL-1.1-1-ov-file)
 
 ## 教育部標準楷書字形檔
 - [`docs/assets/edukai-5.0.ttf`](docs/assets/edukai-5.0.ttf)
@@ -12,7 +12,7 @@
 - **授權**：CC 「[姓名標示-禁止改作](https://tw.creativecommons.net/home-page/)」
 - 如需引用，請標示「中華民國教育部」。
   
-  <img src="https://tw.creativecommons.net/wp-content/uploads/sites/20/2020/11/by-nd-300x105.png" style="width: 200px;"/>
+  [<img src="https://tw.creativecommons.net/wp-content/uploads/sites/20/2020/11/by-nd-300x105.png" style="width: 200px;"/>](https://tw.creativecommons.net/home-page/)
 
 ## 北科程式設計研究社組織章程
 - [`docs/aoa.md`](docs/aoa.md)
@@ -22,7 +22,7 @@
 - **授權**：CC 「[姓名標示─相同方式分享 4.0 國際](https://creativecommons.org/licenses/by-sa/4.0/)」
 - 如需引用，請標示「北科程式設計研究社」或「[@npc.designer](https://instagram.com/npc.designer)」或「[https://ntut.club](https://ntut.club)」。
   
-  <img src="https://tw.creativecommons.net/wp-content/uploads/sites/20/2020/11/by-sa-300x105.png" style="width: 200px;"/>
+  [<img src="https://tw.creativecommons.net/wp-content/uploads/sites/20/2020/11/by-sa-300x105.png" style="width: 200px;"/>](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## 其餘部分皆以 GPL v3 授權
 
@@ -35,5 +35,5 @@
   - 如需引用或使用這些內容，請標示「北科程式設計研究社」及其版權訊息，並附上 GPL v3 的授權聲明。
     
   
-  <img src="https://www.gnu.org/graphics/gplv3-127x51.png" style="width: 200px;"/>
+  [<img src="https://www.gnu.org/graphics/gplv3-127x51.png" style="width: 200px;"/>](https://www.gnu.org/licenses/gpl-3.0.html)
   
