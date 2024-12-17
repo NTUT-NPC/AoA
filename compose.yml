@@ -1,0 +1,6 @@
+services:
+  aoa-preview:
+    build: .
+    ports:
+      - "5000:5000"
+
