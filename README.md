@@ -21,21 +21,27 @@ This project sets up a Flask web application that serves an HTML preview generat
 ## Project Structure
 
 ```
-.
-├── assets
-│   ├── edukai-5.0.ttf
-│   └── Iansui-Regular.ttf
+NTUT-NPC/AoA
 ├── build
 │   └── app.py
 ├── compose.yml
 ├── Dockerfile
 ├── docs
 │   ├── aoa.md
+│   ├── assets
+│   │   ├── edukai-5.0.ttf
+│   │   └── Iansui-Regular.ttf
 │   ├── CNAME
 │   └── index.html
-├── licenses
-│   ├── OFL.txt
-│   └── README.md
+├── .git
+├── .github
+│   └── workflows
+│       └── markdown-to-html.yml
+├── .gitignore
+├── LICENSE
+│   ├── GPL-3.0.txt
+│   └── OFL.txt
+├── LICENSE.md
 └── README.md
 ```
 
