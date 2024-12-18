@@ -135,20 +135,15 @@
 
 - 四、 社員大會
   - (一) 為社內最高決策機構。
-
   - (二) 職權：
     1. 修改本社組織章程。
     1. 議決重要事項。
-
   - (三) 時間：未定。
-
   - (四) 原則：
     1. 每學期至少召開乙次。
     1. 由正副社長召開。
     1. 必要時由社員總額之二分之一以上連署請求，並於兩週內召開社員大會。
-    1. 社員大會應有全體社員二分之一以上出席。
     1. 決議方式除重大提案至少應經出席社員二分之一以上同意外，一般提案以相對多數通過。
-
   - (五) 地點：以共同科館該學期上課之電腦教室為原則。
 
 ### 柒、 社團經費
@@ -307,7 +302,7 @@
 - 八、 本章程經社員大會通過後由本社社長公告實施，修正時亦同。
 
 ---
-
+<link rel="icon" href="https://github.com/NTUT-NPC/AoA/raw/refs/heads/main/docs/assets/favicon.ico" type="image/x-icon">
 <button onclick="window.print(); " style="border: 0; border-radius: 5px; padding: 10px 100px; background-color: rgb(5, 134, 255); color: white; cursor: pointer;">列印</button>
 
 <style>
