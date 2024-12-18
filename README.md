@@ -18,27 +18,6 @@ If you would like to contribute, please follow these steps:
 
 This project sets up a Flask web application that serves an HTML preview generated from a Markdown file. The application is containerized using Docker and orchestrated with Docker Compose.
 
-## Project Structure
-
-```
-.
-├── assets
-│   ├── edukai-5.0.ttf
-│   └── Iansui-Regular.ttf
-├── build
-│   └── app.py
-├── compose.yml
-├── Dockerfile
-├── docs
-│   ├── aoa.md
-│   ├── CNAME
-│   └── index.html
-├── licenses
-│   ├── OFL.txt
-│   └── README.md
-└── README.md
-```
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
@@ -89,7 +68,7 @@ To stop the application, you can press `Ctrl+C` in the terminal where Docker Com
 
 ## License
 
-Please see [licenses](https://github.com/NTUT-NPC/AoA/tree/main/licenses).
+Please see [LICENSE.md](LICENSE.md)
 
 ## Acknowledgments
 
