@@ -311,14 +311,9 @@
 <button onclick="window.print(); " style="border: 0; border-radius: 5px; padding: 10px 100px; background-color: rgb(5, 134, 255); color: white; cursor: pointer;">列印</button>
 
 <style>
-/* @font-face {
-  font-family: 'iansui';
-  src: url('../assets/Iansui-Regular.ttf') format('truetype')
-} */
-
 @font-face {
   font-family: 'edukai';
-  src: url('../assets/edukai-5.0.ttf') format('truetype')
+  src: url('assets/edukai-5.0.ttf') format('truetype')
 } 
 
 @media print {
