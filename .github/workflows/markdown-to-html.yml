@@ -21,7 +21,7 @@ jobs:
           git config --local user.name "kevinlee-06"
           git config --local user.email "cgshyuankai@proton.me"
           git add docs/index.html
-          git commit -m "Build: 201 Created" || git commit -m "Build: 304 Not Modified"
+          git commit -m "Build: 201 Created" || echo "Build: 304 Not Modified"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
